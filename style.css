@@ -103,3 +103,9 @@ ul li img {
     height: 122px;
     margin: 14px 0 0 0;
 }
+
+@media screen and (max-width: 771px) {
+    .search-field {
+        width: auto;
+    }
+}

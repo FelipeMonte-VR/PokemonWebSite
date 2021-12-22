@@ -1,0 +1,105 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    
+    background-color: #C6ECED;
+}
+
+header {
+    margin: 0 0 21px 0;
+}
+
+h1 img {
+    width: 186px;
+    height: 66;
+}
+
+.search {
+    margin: 0 0 40px 0;
+}
+
+.search-field {
+    width: 731px;
+    height: 45px;
+    border-style: none;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding-left: 20px;
+    margin: 0 10px 0 0;
+
+    font-size: 14px;
+    font-weight: 400;
+    color: #AFAFAF;
+}
+
+.search-button {
+    width: 109px;
+    height: 46px;
+    border-style: none;
+    border-radius: 10px;
+    background-color: #3763AD;
+    margin: 0 0 0 0;
+
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFCB05;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li { 
+    width: 181px;
+    height: 253px;
+    border-radius: 25px;
+    vertical-align: top;
+    margin: 0 25px 50px 25px;
+    display: inline-block;
+    text-align: center;
+}
+
+.grass {
+    background-color: #48D0B0;
+}
+
+.fire {
+    background-color: #F66C6D;
+}
+
+ul li h2 {
+    margin: 22px 0 0 0;
+
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+ul li p:before {
+    content: "#";
+}
+
+ul li p {
+    margin: 3px 0 16px 0;
+
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #0000006B;
+}
+
+.pokemon-spot {
+    width: 151px;
+    height: 151px;
+    border-radius: 50%;
+    margin: auto;
+    background-color: #FFFFFF66;
+}
+
+ul li img {
+    width: 122px;
+    height: 122px;
+    margin: 14px 0 0 0;
+}
